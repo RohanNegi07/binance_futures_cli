@@ -1,0 +1,8 @@
+python-binance
+binance-connector
+python-dotenv
+apscheduler
+requests
+tzlocal
+urllib3
+websocket-client
